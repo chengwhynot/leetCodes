@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compress-string-lcci-test", "compress-string-lcci\test\compress-string-lcci-test\compress-string-lcci-test.csproj", "{FBFF5D86-3564-4FDA-A211-AB4E429E7EAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "compress-string-lcci-test", "compress-string-lcci\test\compress-string-lcci-test\compress-string-lcci-test.csproj", "{FBFF5D86-3564-4FDA-A211-AB4E429E7EAC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "compress-string-lcci", "compress-string-lcci\src\compress-string-lcci.csproj", "{A80F891F-BED3-4F98-8257-275FD0271116}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1160__find-words-that-can-be-formed-by-characters", "1160__find-words-that-can-be-formed-by-characters", "{4C6ED0BB-9584-4D62-AC32-60B9574C5EBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.06__compress-string-lcci", "01.06__compress-string-lcci", "{1F845F04-482B-42A4-872E-3D67DF3FA00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "1160__find-words-that-can-be-formed-by-characters\test\UnitTestProject\UnitTestProject.csproj", "{18FA2896-3CF0-4FE4-90D4-83F2D2459A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find-words-that-can-be-formed-by-characters", "1160__find-words-that-can-be-formed-by-characters\src\find-words-that-can-be-formed-by-characters\find-words-that-can-be-formed-by-characters.csproj", "{5429A676-6C6B-4C76-BA71-D2B96508DF0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +29,23 @@ Global
 		{A80F891F-BED3-4F98-8257-275FD0271116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A80F891F-BED3-4F98-8257-275FD0271116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A80F891F-BED3-4F98-8257-275FD0271116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FA2896-3CF0-4FE4-90D4-83F2D2459A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FA2896-3CF0-4FE4-90D4-83F2D2459A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FA2896-3CF0-4FE4-90D4-83F2D2459A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FA2896-3CF0-4FE4-90D4-83F2D2459A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5429A676-6C6B-4C76-BA71-D2B96508DF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5429A676-6C6B-4C76-BA71-D2B96508DF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5429A676-6C6B-4C76-BA71-D2B96508DF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5429A676-6C6B-4C76-BA71-D2B96508DF0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBFF5D86-3564-4FDA-A211-AB4E429E7EAC} = {1F845F04-482B-42A4-872E-3D67DF3FA00F}
+		{A80F891F-BED3-4F98-8257-275FD0271116} = {1F845F04-482B-42A4-872E-3D67DF3FA00F}
+		{18FA2896-3CF0-4FE4-90D4-83F2D2459A5C} = {4C6ED0BB-9584-4D62-AC32-60B9574C5EBC}
+		{5429A676-6C6B-4C76-BA71-D2B96508DF0F} = {4C6ED0BB-9584-4D62-AC32-60B9574C5EBC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A6CB934-5E57-4D29-8CDE-7351F32B5CC1}
