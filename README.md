@@ -1,21 +1,23 @@
-# LeetCodeÌâ¿âµÄÃ¿ÈÕÒ»Ìâ
+# LeetCodeé¢˜åº“çš„æ¯æ—¥ä¸€é¢˜
 
-3ÔÂ·İÒßÇéÒÔÀ´£¬LeetCodeÎªÁË·½±ãÎÒÃÇÕâĞ©ÓÖ±¿ÓÖÀÁµÄÈË£¬ÍÆ³öÁËÃ¿ÈÕÒ»ÌâµÄ»î¶¯¡£Ã¿Ìì²»ÓÃÏë£¬Ö»Òªµ½Ìâ¿âÊ×Ò³£¬µã»÷ÖÃ¶¥µÄÄÇÒ»ÌõÌâÄ¿£¬¿ª×ö°É¡£Õâ¸ö¿â¾ÍÊÇÎÒ¼ÇÂ¼×Ô¼ºµÄ½â´ğµÄµØ·½¡£
+3æœˆä»½ç–«æƒ…ä»¥æ¥ï¼ŒLeetCodeä¸ºäº†æ–¹ä¾¿æˆ‘ä»¬è¿™äº›åˆç¬¨åˆæ‡’çš„äººï¼Œæ¨å‡ºäº†æ¯æ—¥ä¸€é¢˜çš„æ´»åŠ¨ã€‚æ¯å¤©ä¸ç”¨æƒ³ï¼Œåªè¦åˆ°é¢˜åº“é¦–é¡µï¼Œç‚¹å‡»ç½®é¡¶çš„é‚£ä¸€æ¡é¢˜ç›®ï¼Œå¼€åšå§ã€‚è¿™ä¸ªåº“å°±æ˜¯æˆ‘è®°å½•è‡ªå·±çš„è§£ç­”çš„åœ°æ–¹ã€‚
 
-## Ä¿Â¼ËµÃ÷
+## ç›®å½•è¯´æ˜
 
-Ã¿Ò»¸öÎÄ¼ş¼Ğ¾ÍÊÇÒ»µÀÌâ¡£ÎÄ¼ş¼ĞÒÑÌâÄ¿±àºÅÎª¿ªÍ·£¬Ë«ÏÂ»®Ïß'__'×÷Îª·Ö¸ô·û£¬ºóÃæ¸úÉÏLeetCodeÖĞµÄÌâÄ¿Ãû³Æ¡£Ã¿Ò»¸öÎÄ¼ş¼ĞÄÚ·ÖÎªsrcºÍtest¡£
+æ¯ä¸€ä¸ªæ–‡ä»¶å¤¹å°±æ˜¯ä¸€é“é¢˜ã€‚æ–‡ä»¶å¤¹å·²é¢˜ç›®ç¼–å·ä¸ºå¼€å¤´ï¼ŒåŒä¸‹åˆ’çº¿'__'ä½œä¸ºåˆ†éš”ç¬¦ï¼Œåé¢è·Ÿä¸ŠLeetCodeä¸­çš„é¢˜ç›®åç§°ã€‚æ¯ä¸€ä¸ªæ–‡ä»¶å¤¹å†…åˆ†ä¸ºsrcå’Œtestã€‚
 
-srcÊÇ.net coreÊµÏÖµÄÌâ½â¡£×ñ´ÓLeetCodeµÄÃüÃû¹æÔò£¬ÀàÎªSolution£¬·½·¨Ãû¸ù¾İÃ¿µÀÌâÄ¿²»Í¬¶ø²»Í¬¡£
-testÊÇmstestĞ´µÄunit test£¬ÓÃÓÚ²âÊÔ¡£ÕâÀï²¢Ã»ÓĞ×¢Òâ²âÊÔ·½·¨µÄÃüÃû¹æ·¶£¬ÒòÎªÃ¿Ò»¸ö·½·¨¶¼ºÜ¶Ì£¬setupÒ»ÑÛ¾Í¿´Ã÷°×ÁË£¬ËùÒÔ·½·¨ÃüÃûÉÏ¾ÍÃ»ÕÕ¹Ëµ½¡£
+srcæ˜¯.net coreå®ç°çš„é¢˜è§£ã€‚éµä»LeetCodeçš„å‘½åè§„åˆ™ï¼Œç±»ä¸ºSolutionï¼Œæ–¹æ³•åæ ¹æ®æ¯é“é¢˜ç›®ä¸åŒè€Œä¸åŒã€‚
 
-## ÔËĞĞ
-¶¼ÊÇclassÀà¹¤³Ì£¬ÎŞ·¨Ö±½ÓÔËĞĞ¡£Í¨¹ıÔÚsolutionµÄ¸ùÄ¿Â¼ÖĞÖ´ĞĞ `dotnet test`ÔËĞĞ²âÊÔÀı£¬À´ÕûÌå¿´Ò»ÏÂ½á¹û¡£
+testæ˜¯mstestå†™çš„unit testï¼Œç”¨äºæµ‹è¯•ã€‚è¿™é‡Œå¹¶æ²¡æœ‰æ³¨æ„æµ‹è¯•æ–¹æ³•çš„å‘½åè§„èŒƒï¼Œå› ä¸ºæ¯ä¸€ä¸ªæ–¹æ³•éƒ½å¾ˆçŸ­ï¼Œsetupä¸€çœ¼å°±çœ‹æ˜ç™½äº†ï¼Œæ‰€ä»¥æ–¹æ³•å‘½åä¸Šå°±æ²¡ç…§é¡¾åˆ°ã€‚
+
+## è¿è¡Œ
+
+éƒ½æ˜¯classç±»å·¥ç¨‹ï¼Œæ— æ³•ç›´æ¥è¿è¡Œã€‚é€šè¿‡åœ¨solutionçš„æ ¹ç›®å½•ä¸­æ‰§è¡Œ `dotnet test`è¿è¡Œæµ‹è¯•ä¾‹ï¼Œæ¥æ•´ä½“çœ‹ä¸€ä¸‹ç»“æœã€‚
 
 ```cmd.exe
 D:\CODING\leetCodes>dotnet test
-D:\CODING\leetCodes\1160__find-words-that-can-be-formed-by-characters\test\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.dll µÄ²âÊÔÔËĞĞ(.NETCoreApp,Version=v3.1)
-D:\CODING\leetCodes\compress-string-lcci\test\compress-string-lcci-test\bin\Debug\netcoreapp3.1\compress-string-lcci-test.dll µÄ²âÊÔÔËĞĞ(.NETCoreApp,Version=v3.1)
+D:\CODING\leetCodes\1160__find-words-that-can-be-formed-by-characters\test\UnitTestProject\bin\Debug\netcoreapp3.1\UnitTestProject.dll çš„æµ‹è¯•è¿è¡Œ(.NETCoreApp,Version=v3.1)
+D:\CODING\leetCodes\compress-string-lcci\test\compress-string-lcci-test\bin\Debug\netcoreapp3.1\compress-string-lcci-test.dll çš„æµ‹è¯•è¿è¡Œ(.NETCoreApp,Version=v3.1)
 Microsoft (R) Test Execution Command Line Tool Version 16.3.0Microsoft (R) Test Execution Command Line Tool Version 16.3.0
 
 Copyright (c) Microsoft Corporation.  All rights reserved.Copyright (c) Microsoft Corporation.  All rights reserved.
