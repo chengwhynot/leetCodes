@@ -17,9 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "find-words-that-can-be-form
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "945__minimum-increment-to-make-array-unique", "945__minimum-increment-to-make-array-unique", "{B89791B5-C002-46D9-9B44-D0B0F762FA2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimum-increment-to-make-array-unique", "945__minimum-increment-to-make-array-unique\minimum-increment-to-make-array-unique\minimum-increment-to-make-array-unique.csproj", "{341C4BEC-5C36-4587-BBE3-AD0ED3635F90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minimum-increment-to-make-array-unique", "945__minimum-increment-to-make-array-unique\minimum-increment-to-make-array-unique\minimum-increment-to-make-array-unique.csproj", "{341C4BEC-5C36-4587-BBE3-AD0ED3635F90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimum-increment-to-make-array-unique.tests", "945__minimum-increment-to-make-array-unique\minimum-increment-to-make-array-unique.tests\minimum-increment-to-make-array-unique.tests.csproj", "{C552E7F3-C1D5-4A7F-956D-6249B9B9688E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minimum-increment-to-make-array-unique.tests", "945__minimum-increment-to-make-array-unique\minimum-increment-to-make-array-unique.tests\minimum-increment-to-make-array-unique.tests.csproj", "{C552E7F3-C1D5-4A7F-956D-6249B9B9688E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "876__middle-of-the-linked-list", "876__middle-of-the-linked-list", "{7EA6C0D3-3A2A-4A46-8A6B-878426041EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "middle-of-the-linked-list", "876__middle-of-the-linked-list\middle-of-the-linked-list\middle-of-the-linked-list.csproj", "{3743F28D-62B9-4BBB-98BD-800546663094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "middle-of-the-linked-list-tests", "876__middle-of-the-linked-list\middle-of-the-linked-list-tests\middle-of-the-linked-list-tests.csproj", "{1A70993A-34E9-4545-8472-DFE6123EA81F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,14 @@ Global
 		{C552E7F3-C1D5-4A7F-956D-6249B9B9688E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C552E7F3-C1D5-4A7F-956D-6249B9B9688E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C552E7F3-C1D5-4A7F-956D-6249B9B9688E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3743F28D-62B9-4BBB-98BD-800546663094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3743F28D-62B9-4BBB-98BD-800546663094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3743F28D-62B9-4BBB-98BD-800546663094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3743F28D-62B9-4BBB-98BD-800546663094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A70993A-34E9-4545-8472-DFE6123EA81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A70993A-34E9-4545-8472-DFE6123EA81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A70993A-34E9-4545-8472-DFE6123EA81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A70993A-34E9-4545-8472-DFE6123EA81F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +76,8 @@ Global
 		{5429A676-6C6B-4C76-BA71-D2B96508DF0F} = {4C6ED0BB-9584-4D62-AC32-60B9574C5EBC}
 		{341C4BEC-5C36-4587-BBE3-AD0ED3635F90} = {B89791B5-C002-46D9-9B44-D0B0F762FA2D}
 		{C552E7F3-C1D5-4A7F-956D-6249B9B9688E} = {B89791B5-C002-46D9-9B44-D0B0F762FA2D}
+		{3743F28D-62B9-4BBB-98BD-800546663094} = {7EA6C0D3-3A2A-4A46-8A6B-878426041EC5}
+		{1A70993A-34E9-4545-8472-DFE6123EA81F} = {7EA6C0D3-3A2A-4A46-8A6B-878426041EC5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A6CB934-5E57-4D29-8CDE-7351F32B5CC1}
