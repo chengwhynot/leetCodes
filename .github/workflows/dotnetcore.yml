@@ -23,7 +23,9 @@ jobs:
       run: dotnet build --configuration Release --no-restore
     - name: Test
       run: dotnet test --no-restore --verbosity normal
-    - name: Coverage check
-      uses: devmasx/coverage-check-action@v1.1.0
+    - uses: devmasx/coverage-check-action@v1.1.0
       with:
-        result_path: .\coverage.json
+        type: lcov
+        result_path: coverage/example.lcov
+        min_coverage: 90
+        token: ${{secrets.GITHUB_TOKEN}}
