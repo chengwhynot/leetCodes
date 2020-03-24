@@ -20,12 +20,12 @@
 
 ## 题解
 
-快慢指针，构建两个指针，一个一次进一步，一个一次递进两步。当快指针到达末尾时，慢指针就在中间。  
+快慢指针，构建两个指针，一个一次进一步，一个一次递进两步。当快指针到达末尾时，慢指针就在中间。    
 
-测试比较多，空，1个元素，以及奇数个，偶数个元素的情况都考虑了。
+测试比较多，空，1个元素，以及奇数个，偶数个元素的情况都考虑了。  
+  
+只是[结果](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/)居然既不快，也没有省内存……为什么呢？  
 
-只是[结果](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/)居然既不快，也没有省内存……为什么呢？
-
-> 显示[详情](https://leetcode-cn.com/submissions/detail/56323795/)
-> 执行用时 : 108 ms, 在所有 C# 提交中击败了 44.12% 的用户
+> 显示[详情](https://leetcode-cn.com/submissions/detail/56323795/)  
+> 执行用时 : 108 ms, 在所有 C# 提交中击败了 44.12% 的用户  
 > 内存消耗 : 24 MB, 在所有 C# 提交中击败了 6.67% 的用户
