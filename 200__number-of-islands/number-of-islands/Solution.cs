@@ -14,7 +14,7 @@ namespace number_of_islands
                     if (grid[i][j] == '1')
                     {
                         count++;
-                        grid = FlushIsland(i, j, grid);
+                        FlushIsland(i, j, grid);
                     }
                 }
             }
@@ -29,24 +29,22 @@ namespace number_of_islands
         /// <param name="j"></param>
         /// <param name="grid"></param>
         /// <returns></returns>
-        static char[][] FlushIsland(int i, int j, char[][] grid)
+        static void FlushIsland(int i, int j, char[][] grid)
         {
+            if (i < 0 || i >= grid.GetLength(0) || j < 0 || j >= grid[i].Length)
+            {
+                return;
+            }
             if (grid[i][j] == '1')
             {
                 grid[i][j] = '0';
 
-                if (i > 0)
-                    FlushIsland(i - 1, j, grid);
-                if (i < grid.GetLength(0) - 1)
-                    FlushIsland(i + 1, j, grid);
-
-                if (j > 0)
-                    FlushIsland(i, j - 1, grid);
-                if (j < grid[i].Length - 1)
-                    FlushIsland(i, j + 1, grid);
+                FlushIsland(i - 1, j, grid);
+                FlushIsland(i + 1, j, grid);
+                FlushIsland(i, j - 1, grid);
+                FlushIsland(i, j + 1, grid);
             }
-
-            return grid;
+            return;
         }
     }
 }
