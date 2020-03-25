@@ -33,11 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "number-of-islands", "200__n
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "number-of-islands-tests", "200__number-of-islands\number-of-islands-tests\number-of-islands-tests.csproj", "{E41EA219-A3AE-4655-8D5A-FDDD0F10DCBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "surface-area-of-3d-shapes-tests", "892__surface-area-of-3d-shapes\surface-area-of-3d-shapes-tests\surface-area-of-3d-shapes-tests.csproj", "{AF3D723D-22E3-4A0C-91C0-A1F3D0B33D7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "surface-area-of-3d-shapes-tests", "892__surface-area-of-3d-shapes\surface-area-of-3d-shapes-tests\surface-area-of-3d-shapes-tests.csproj", "{AF3D723D-22E3-4A0C-91C0-A1F3D0B33D7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "surface-area-of-3d-shapes", "892__surface-area-of-3d-shapes\surface-area-of-3d-shapes\surface-area-of-3d-shapes.csproj", "{A4D0B794-BDF9-4126-AA09-7BDB9296C5A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "surface-area-of-3d-shapes", "892__surface-area-of-3d-shapes\surface-area-of-3d-shapes\surface-area-of-3d-shapes.csproj", "{A4D0B794-BDF9-4126-AA09-7BDB9296C5A9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "892__find-words-that-can-be-formed-by-characters", "892__find-words-that-can-be-formed-by-characters", "{0F376BFE-3ED9-45E0-9891-BD030530B644}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "892__surface-area-of-3d-shapes", "892__surface-area-of-3d-shapes", "{0F376BFE-3ED9-45E0-9891-BD030530B644}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
