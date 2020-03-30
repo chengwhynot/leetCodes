@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>yuan_quan_zhong_zui_hou_sheng_xia_de_shu_zi_lcof</RootNamespace>
+  </PropertyGroup>
+
+</Project>

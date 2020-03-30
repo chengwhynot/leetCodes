@@ -47,9 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "available-captures-for-rook
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "914__x-of-a-kind-in-a-deck-of-cards", "914__x-of-a-kind-in-a-deck-of-cards", "{274EE39A-9F2C-4F15-8096-0B130D76D5C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "x-of-a-kind-in-a-deck-of-cards-test", "914__x-of-a-kind-in-a-deck-of-cards\x-of-a-kind-in-a-deck-of-cards-test\x-of-a-kind-in-a-deck-of-cards-test.csproj", "{5FCEB24B-3188-46E1-88AF-5AA117052388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "x-of-a-kind-in-a-deck-of-cards-test", "914__x-of-a-kind-in-a-deck-of-cards\x-of-a-kind-in-a-deck-of-cards-test\x-of-a-kind-in-a-deck-of-cards-test.csproj", "{5FCEB24B-3188-46E1-88AF-5AA117052388}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "x-of-a-kind-in-a-deck-of-cards", "914__x-of-a-kind-in-a-deck-of-cards\x-of-a-kind-in-a-deck-of-cards\x-of-a-kind-in-a-deck-of-cards.csproj", "{E5703778-61F4-47E6-B919-2F8AC3562B29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "x-of-a-kind-in-a-deck-of-cards", "914__x-of-a-kind-in-a-deck-of-cards\x-of-a-kind-in-a-deck-of-cards\x-of-a-kind-in-a-deck-of-cards.csproj", "{E5703778-61F4-47E6-B919-2F8AC3562B29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "interview18__yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof", "interview18__yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof", "{A6142069-BAC9-4663-B860-D5B5567F5EA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof", "interview18__yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof\src\yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.csproj", "{F550EAC6-0C32-4129-B70E-73205DE43CE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof-test", "interview18__yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof\test\yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof-test.csproj", "{3898CCC7-7B9F-43D6-8E37-B52D9D509E39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +127,14 @@ Global
 		{E5703778-61F4-47E6-B919-2F8AC3562B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5703778-61F4-47E6-B919-2F8AC3562B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5703778-61F4-47E6-B919-2F8AC3562B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F550EAC6-0C32-4129-B70E-73205DE43CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F550EAC6-0C32-4129-B70E-73205DE43CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F550EAC6-0C32-4129-B70E-73205DE43CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F550EAC6-0C32-4129-B70E-73205DE43CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3898CCC7-7B9F-43D6-8E37-B52D9D509E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3898CCC7-7B9F-43D6-8E37-B52D9D509E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3898CCC7-7B9F-43D6-8E37-B52D9D509E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3898CCC7-7B9F-43D6-8E37-B52D9D509E39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,6 +156,8 @@ Global
 		{5668F4EA-DE11-4670-94F9-824EE03D1534} = {5294F491-C2C6-487B-BBB6-47E91BB8697A}
 		{5FCEB24B-3188-46E1-88AF-5AA117052388} = {274EE39A-9F2C-4F15-8096-0B130D76D5C7}
 		{E5703778-61F4-47E6-B919-2F8AC3562B29} = {274EE39A-9F2C-4F15-8096-0B130D76D5C7}
+		{F550EAC6-0C32-4129-B70E-73205DE43CE8} = {A6142069-BAC9-4663-B860-D5B5567F5EA5}
+		{3898CCC7-7B9F-43D6-8E37-B52D9D509E39} = {A6142069-BAC9-4663-B860-D5B5567F5EA5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A6CB934-5E57-4D29-8CDE-7351F32B5CC1}
