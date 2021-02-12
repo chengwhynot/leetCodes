@@ -40,3 +40,35 @@ Total tests: 5
      Passed: 5
  Total time: 1.2958 Seconds
 ```
+
+## 测试覆盖率
+
+通过 [coverlet](https://github.com/coverlet-coverage/coverlet/blob/master/Documentation/MSBuildIntegration.md) NugetPackage 来统计测试覆盖率。  
+步骤：  
+1. 全部**测试项目**中添加两个nuget 包：coverlet.msbuild 和 coverlet.collector  
+1. 执行 `dotnet test /p:CollectCoverage=true`  
+1. 可选添加 CoverletOutputFormat=opencover，将输出格式变为opencover，以上传coverall.ai。`dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover`  
+
+输出如下：  
+
+> Passed!  - Failed:     0, Passed:     4, Skipped:     0, Total:     4, Duration: 46 ms - remove-duplicates-test.dll (netcoreapp3.1)
+> 
+> Calculating coverage result...
+>   Generating report 'D:\CODING\leetCodes\x2gy9m__remove-duplicates\test\remove-duplicates-test\coverage.json'
+> 
+> +-------------------+------+--------+--------+
+> | Module            | Line | Branch | Method |
+> +-------------------+------+--------+--------+
+> | remove-duplicates | 100% | 100%   | 100%   |
+> +-------------------+------+--------+--------+
+> 
+> +---------+------+--------+--------+
+> |         | Line | Branch | Method |
+> +---------+------+--------+--------+
+> | Total   | 100% | 100%   | 100%   |
+> +---------+------+--------+--------+
+> | Average | 100% | 100%   | 100%   |
+> +---------+------+--------+--------+
+> 
+
+别忘了写测试！

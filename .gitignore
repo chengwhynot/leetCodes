@@ -339,3 +339,7 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 /.vscode
+
+#coverlet coverage data
+coverage.opencover.xml
+coverage.json
