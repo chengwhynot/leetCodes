@@ -81,21 +81,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minimum-increment-to-make-a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minimum-increment-to-make-array-unique.tests", "945__minimum-increment-to-make-array-unique\test\minimum-increment-to-make-array-unique.tests.csproj", "{24D44B0D-52C4-41CA-A506-8527EE065060}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "x2gy9m__remove-duplicates\src\RemoveDuplicates.csproj", "{85130931-06BE-427C-9E56-A93F357EF796}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "remove-duplicates", "x2gy9m__remove-duplicates\src\remove-duplicates.csproj", "{85130931-06BE-427C-9E56-A93F357EF796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove-duplicates-test", "x2gy9m__remove-duplicates\test\remove-duplicates-test\remove-duplicates-test.csproj", "{DEDB3156-6DB7-4E92-9923-60EA6AEFB15A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "remove-duplicates-test", "x2gy9m__remove-duplicates\test\remove-duplicates-test\remove-duplicates-test.csproj", "{DEDB3156-6DB7-4E92-9923-60EA6AEFB15A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lc-121__best-time-to-buy-and-sell-stock", "lc-121__best-time-to-buy-and-sell-stock", "{859D5085-6654-48E8-BEFC-D5682E372D39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "best-time-to-buy-and-sell-stock", "lc-121__best-time-to-buy-and-sell-stock\best-time-to-buy-and-sell-stock\best-time-to-buy-and-sell-stock.csproj", "{BF1C160B-2CF4-4C35-A3FA-60ECAD9D4A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "best-time-to-buy-and-sell-stock", "lc-121__best-time-to-buy-and-sell-stock\best-time-to-buy-and-sell-stock\best-time-to-buy-and-sell-stock.csproj", "{BF1C160B-2CF4-4C35-A3FA-60ECAD9D4A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "best-time-to-buy-and-sell-stock-tests", "lc-121__best-time-to-buy-and-sell-stock\best-time-to-buy-and-sell-stock-tests\best-time-to-buy-and-sell-stock-tests.csproj", "{CB636A72-6FD9-4465-8712-149292919D33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "best-time-to-buy-and-sell-stock-tests", "lc-121__best-time-to-buy-and-sell-stock\best-time-to-buy-and-sell-stock-tests\best-time-to-buy-and-sell-stock-tests.csproj", "{CB636A72-6FD9-4465-8712-149292919D33}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lc-122__best-time-to-buy-and-sell-stock-ii", "lc-122__best-time-to-buy-and-sell-stock-ii", "{AD7A7D41-B57E-495A-8822-33A705C71578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "best-time-to-buy-and-sell-stock-ii", "lc-122__best-time-to-buy-and-sell-stock-ii\best-time-to-buy-and-sell-stock-ii\best-time-to-buy-and-sell-stock-ii.csproj", "{F5CEEF3A-B55A-40AC-95FE-6F396DD07EA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "best-time-to-buy-and-sell-stock-ii", "lc-122__best-time-to-buy-and-sell-stock-ii\best-time-to-buy-and-sell-stock-ii\best-time-to-buy-and-sell-stock-ii.csproj", "{F5CEEF3A-B55A-40AC-95FE-6F396DD07EA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "best-time-to-buy-and-sell-stock-ii-tests", "lc-122__best-time-to-buy-and-sell-stock-ii\best-time-to-buy-and-sell-stock-ii-tests\best-time-to-buy-and-sell-stock-ii-tests.csproj", "{38481A61-EBAD-4E40-8D0E-60D6DF5BE332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "best-time-to-buy-and-sell-stock-ii-tests", "lc-122__best-time-to-buy-and-sell-stock-ii\best-time-to-buy-and-sell-stock-ii-tests\best-time-to-buy-and-sell-stock-ii-tests.csproj", "{38481A61-EBAD-4E40-8D0E-60D6DF5BE332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

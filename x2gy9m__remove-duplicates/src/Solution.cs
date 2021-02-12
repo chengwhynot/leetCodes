@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RemoveDuplicates
+namespace remove_duplicates
 {
     public class Solution
     {

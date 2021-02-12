@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using RemoveDuplicates;
+using remove_duplicates;
 
-namespace RemoveDuplicatesTests
+namespace remove_duplicates_test
 {
     [TestClass]
     public class UnitTest1
