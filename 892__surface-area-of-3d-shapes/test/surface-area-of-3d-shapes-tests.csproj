@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\surface-area-of-3d-shapes\surface-area-of-3d-shapes.csproj" />
+    <ProjectReference Include="..\src\surface-area-of-3d-shapes.csproj" />
   </ItemGroup>
 
 </Project>

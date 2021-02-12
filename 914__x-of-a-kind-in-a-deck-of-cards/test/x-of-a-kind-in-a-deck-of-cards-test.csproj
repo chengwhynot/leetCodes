@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\x-of-a-kind-in-a-deck-of-cards\x-of-a-kind-in-a-deck-of-cards.csproj" />
+    <ProjectReference Include="..\src\x-of-a-kind-in-a-deck-of-cards.csproj" />
   </ItemGroup>
 
 </Project>

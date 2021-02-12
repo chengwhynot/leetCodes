@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\number-of-islands\number-of-islands.csproj" />
+    <ProjectReference Include="..\src\number-of-islands.csproj" />
   </ItemGroup>
 
 </Project>

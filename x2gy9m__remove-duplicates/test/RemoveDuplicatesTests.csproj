@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RemoveDuplicates\RemoveDuplicates.csproj" />
+    <ProjectReference Include="..\src\RemoveDuplicates.csproj" />
   </ItemGroup>
 
 </Project>
