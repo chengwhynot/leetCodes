@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession>
+  <Summary numSequencePoints="24" visitedSequencePoints="24" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
+  <Modules>
+    <Module hash="BFFDE569-CEC8-449A-9418-CDED3A95293A">
+      <ModulePath>minimum-increment-to-make-array-unique.dll</ModulePath>
+      <ModuleTime>2021-02-12T03:49:53</ModuleTime>
+      <ModuleName>minimum-increment-to-make-array-unique</ModuleName>
+      <Files>
+        <File uid="1" fullPath="D:\CODING\leetCodes\945__minimum-increment-to-make-array-unique\src\Solution.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="24" visitedSequencePoints="24" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
+          <FullName>minimum_increment_to_make_array_unique.Solution</FullName>
+          <Methods>
+            <Method cyclomaticComplexity="8" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="False" isSetter="False" isStatic="True">
+              <Summary numSequencePoints="24" visitedSequencePoints="24" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken />
+              <Name>System.Int32 minimum_increment_to_make_array_unique.Solution::minIncrementForUnique(System.Int32[])</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="16" ordinal="0" sl="16" sc="1" el="16" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="17" ordinal="1" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="18" ordinal="2" sl="18" sc="1" el="18" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="24" uspid="19" ordinal="3" sl="19" sc="1" el="19" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="9" uspid="20" ordinal="4" sl="20" sc="1" el="20" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="9" uspid="21" ordinal="5" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="9" uspid="22" ordinal="6" sl="22" sc="1" el="22" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="9" uspid="23" ordinal="7" sl="23" sc="1" el="23" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="25" ordinal="8" sl="25" sc="1" el="25" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="22" uspid="26" ordinal="9" sl="26" sc="1" el="26" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="9" uspid="27" ordinal="10" sl="27" sc="1" el="27" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="9" uspid="28" ordinal="11" sl="28" sc="1" el="28" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="4" uspid="29" ordinal="12" sl="29" sc="1" el="29" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="4" uspid="31" ordinal="13" sl="31" sc="1" el="31" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="4" uspid="32" ordinal="14" sl="32" sc="1" el="32" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="4" uspid="33" ordinal="15" sl="33" sc="1" el="33" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="9" uspid="34" ordinal="16" sl="34" sc="1" el="34" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="37" ordinal="17" sl="37" sc="1" el="37" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="1" uspid="38" ordinal="18" sl="38" sc="1" el="38" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="39" ordinal="19" sl="39" sc="1" el="39" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="43" ordinal="20" sl="43" sc="1" el="43" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="44" ordinal="21" sl="44" sc="1" el="44" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="46" ordinal="22" sl="46" sc="1" el="46" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="47" ordinal="23" sl="47" sc="1" el="47" ec="2" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="9" uspid="19" ordinal="1" path="1" offset="63" offsetend="22" sl="19" fileid="1" />
+                <BranchPoint vc="2" uspid="19" ordinal="0" path="0" offset="63" offsetend="65" sl="19" fileid="1" />
+                <BranchPoint vc="9" uspid="26" ordinal="5" path="1" offset="133" offsetend="72" sl="26" fileid="1" />
+                <BranchPoint vc="4" uspid="28" ordinal="2" path="0" offset="84" offsetend="86" sl="28" fileid="1" />
+                <BranchPoint vc="9" uspid="28" ordinal="3" path="1" offset="84" offsetend="117" sl="28" fileid="1" />
+                <BranchPoint vc="2" uspid="26" ordinal="4" path="0" offset="133" offsetend="135" sl="26" fileid="1" />
+                <BranchPoint vc="1" uspid="37" ordinal="6" path="0" offset="145" offsetend="147" sl="37" fileid="1" />
+                <BranchPoint vc="2" uspid="37" ordinal="7" path="1" offset="145" offsetend="168" sl="37" fileid="1" />
+              </BranchPoints>
+              <MethodPoint vc="24" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="16" ec="1" el="47" bec="0" bev="0" fileid="1" xmlns:p8="xsi" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

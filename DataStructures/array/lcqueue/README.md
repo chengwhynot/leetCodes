@@ -11,22 +11,22 @@
 
 示例：
 
-> 输入：
-> ["LCQueue", "size", "push", "front", "push", "front", "size", "pop", "front", "pop", "size"]
-> [[], [], [52], [], [22], [], [], [], [], [], []]
+> 输入：  
+> ["LCQueue", "size", "push", "front", "push", "front", "size", "pop", "front", "pop", "size"]  
+> [[], [], [52], [], [22], [], [], [], [], [], []]  
 
-> 输出：
-> [null,0,null,52,null,52,2,null,22,null,0]
+> 输出：  
+> [null,0,null,52,null,52,2,null,22,null,0]  
 
-> 解释：
-> LCStack l = LCQueue()
-> l.size()        // 获取队列长度，此时栈为空，返回 0
-> l.push(52) // 放入新元素 52，返回 null
-> l.front()    // 当前队首为 52，返回 52
-> l.push(22)        // 放入新元素 22，返回 null
-> l.front() // 当前队首仍然为 52，返回 52
-> l.size()        // 获取队列长度，返回 2
-> l.pop()         // 52 出队
-> l.front()      // 当前队首为 22，返回 22
-> l.pop()     // 22 出队
-> l.size()    // 当前队列长度为 0
+> 解释：  
+> LCStack l = LCQueue()  
+> l.size()        // 获取队列长度，此时栈为空，返回 0  
+> l.push(52) // 放入新元素 52，返回 null  
+> l.front()    // 当前队首为 52，返回 52  
+> l.push(22)        // 放入新元素 22，返回 null  
+> l.front() // 当前队首仍然为 52，返回 52  
+> l.size()        // 获取队列长度，返回 2  
+> l.pop()         // 52 出队  
+> l.front()      // 当前队首为 22，返回 22  
+> l.pop()     // 22 出队  
+> l.size()    // 当前队列长度为 0  
