@@ -79,9 +79,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BST", "DataStructures\Tree\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LC-x2gy9m", "LC-x2gy9m", "{16AD5042-3C2C-46A8-93CA-9460B38C6E50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "LC-x2gy9m\RemoveDuplicates\RemoveDuplicates.csproj", "{06C28296-30A5-4982-9FD5-C15F63C72556}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "LC-x2gy9m\RemoveDuplicates\RemoveDuplicates.csproj", "{06C28296-30A5-4982-9FD5-C15F63C72556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesTests", "LC-x2gy9m\RemoveDuplicatesTests\RemoveDuplicatesTests.csproj", "{A77D6A4C-385D-417C-B893-46491EAD718F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesTests", "LC-x2gy9m\RemoveDuplicatesTests\RemoveDuplicatesTests.csproj", "{A77D6A4C-385D-417C-B893-46491EAD718F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{CFC0A255-ACFE-499C-B64D-B008C865A8F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -221,6 +223,7 @@ Global
 		{B71D3DC8-77E7-487A-A451-05E93528F4CC} = {35118707-86F1-44A9-B865-B134D8E46527}
 		{06C28296-30A5-4982-9FD5-C15F63C72556} = {16AD5042-3C2C-46A8-93CA-9460B38C6E50}
 		{A77D6A4C-385D-417C-B893-46491EAD718F} = {16AD5042-3C2C-46A8-93CA-9460B38C6E50}
+		{CFC0A255-ACFE-499C-B64D-B008C865A8F0} = {E357D514-9291-4B97-8967-73B11896E49D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A6CB934-5E57-4D29-8CDE-7351F32B5CC1}

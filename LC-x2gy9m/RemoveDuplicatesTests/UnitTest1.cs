@@ -9,6 +9,7 @@ namespace RemoveDuplicatesTests
         [DataRow(new int[] { 1, 1, 2, 2 }, 2, new int[] { 1, 2 })]
         [DataRow(new int[] { 1, 1, 2, 2, 3 }, 3, new int[] { 1, 2, 3 })]
         [DataRow(new int[] { 1, 1, 2 }, 2, new int[] { 1, 2 })]
+        [DataRow(new int[] { }, 0, new int[] { })]
         [TestMethod]
         public void TestMethod1(int[] nums, int exp_len, int[] exp_nums)
         {
