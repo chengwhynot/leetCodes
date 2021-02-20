@@ -47,7 +47,7 @@ Total tests: 5
 步骤：  
 1. 全部**测试项目**中添加两个nuget 包：coverlet.msbuild 和 coverlet.collector  
 1. 执行 `dotnet test /p:CollectCoverage=true`  
-1. 可选添加 CoverletOutputFormat=opencover，将输出格式变为opencover，以上传coverall.ai。`dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover`  
+1. 可选添加 CoverletOutputFormat=opencover，将输出格式变为opencover，以上传[coveralls.io](https://coveralls.io/github/chengwhynot/leetCodes)。`dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover`  
 
 输出如下：  
 
