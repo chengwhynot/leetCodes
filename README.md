@@ -50,25 +50,25 @@ Total tests: 5
 1. 可选添加 CoverletOutputFormat=opencover，将输出格式变为opencover，以上传[coveralls.io](https://coveralls.io/github/chengwhynot/leetCodes)。`dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover`  
 
 输出如下：  
-
-> Passed!  - Failed:     0, Passed:     4, Skipped:     0, Total:     4, Duration: 46 ms - remove-duplicates-test.dll (netcoreapp3.1)
-> 
-> Calculating coverage result...
->   Generating report 'D:\CODING\leetCodes\x2gy9m__remove-duplicates\test\remove-duplicates-test\coverage.json'
-> 
-> +-------------------+------+--------+--------+
-> | Module            | Line | Branch | Method |
-> +-------------------+------+--------+--------+
-> | remove-duplicates | 100% | 100%   | 100%   |
-> +-------------------+------+--------+--------+
-> 
-> +---------+------+--------+--------+
-> |         | Line | Branch | Method |
-> +---------+------+--------+--------+
-> | Total   | 100% | 100%   | 100%   |
-> +---------+------+--------+--------+
-> | Average | 100% | 100%   | 100%   |
-> +---------+------+--------+--------+
-> 
+  
+> Passed!  - Failed:     0, Passed:     4, Skipped:     0, Total:     4, Duration: 46 ms - remove-duplicates-test.dll (netcoreapp3.1)  
+>   
+> Calculating coverage result...  
+>   Generating report 'D:\CODING\leetCodes\x2gy9m__remove-duplicates\test\remove-duplicates-test\coverage.json'  
+>   
+> +-------------------+------+--------+--------+  
+> | Module            | Line | Branch | Method |  
+> +-------------------+------+--------+--------+  
+> | remove-duplicates | 100% | 100%   | 100%   |  
+> +-------------------+------+--------+--------+  
+>   
+> +---------+------+--------+--------+  
+> |         | Line | Branch | Method |  
+> +---------+------+--------+--------+  
+> | Total   | 100% | 100%   | 100%   |  
+> +---------+------+--------+--------+  
+> | Average | 100% | 100%   | 100%   |  
+> +---------+------+--------+--------+  
+>   
 
 别忘了写测试！
