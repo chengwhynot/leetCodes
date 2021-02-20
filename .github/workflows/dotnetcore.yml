@@ -31,4 +31,4 @@ jobs:
         # 
         github-token: LIvsSvmbZREZjbor3dQucMjO5PpWl45Gf
         # Path to lcov file
-        path-to-lcov: ./coverage/lcov.info
+        path-to-lcov: ../../coverage/lcov.info
