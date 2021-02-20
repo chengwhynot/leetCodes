@@ -22,7 +22,7 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Test
-      run: dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=lcov /p:CoverletOutput=.\coverage\lcov.info
+      run: dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=lcov /p:CoverletOutput=../../coverage/lcov.info
     - name: Coveralls GitHub Action
       # You may pin to the exact commit or the version.
       # uses: coverallsapp/github-action@8cbef1dea373ebce56de0a14c68d6267baa10b44
@@ -31,4 +31,4 @@ jobs:
         # 
         github-token: LIvsSvmbZREZjbor3dQucMjO5PpWl45Gf
         # Path to lcov file
-        path-to-lcov: ../../coverage/lcov.info
+        path-to-lcov: ./coverage/lcov.info
