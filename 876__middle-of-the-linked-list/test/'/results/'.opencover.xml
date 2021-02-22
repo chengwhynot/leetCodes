@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="11" visitedSequencePoints="11" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="5" minCyclomaticComplexity="5" visitedClasses="2" numClasses="2" visitedMethods="2" numMethods="2" />
   <Modules>
-    <Module hash="B547D649-2125-413C-9EEC-7235EB938EE2">
+    <Module hash="7EAD14D3-2EDF-4116-8FC6-07D5A4366B7A">
       <ModulePath>middle-of-the-linked-list.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:50</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:40</ModuleTime>
       <ModuleName>middle-of-the-linked-list</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\876__middle-of-the-linked-list\src\ListNode.cs" />

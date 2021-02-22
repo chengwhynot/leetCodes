@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession>
+  <Summary numSequencePoints="27" visitedSequencePoints="13" numBranchPoints="16" visitedBranchPoints="8" sequenceCoverage="48.14" branchCoverage="50" maxCyclomaticComplexity="16" minCyclomaticComplexity="16" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="2" />
+  <Modules>
+    <Module hash="FFFA6403-B488-434C-967F-C7D6910E6BB4">
+      <ModulePath>rotate-array.dll</ModulePath>
+      <ModuleTime>2021-02-20T04:28:38</ModuleTime>
+      <ModuleName>rotate-array</ModuleName>
+      <Files>
+        <File uid="1" fullPath="D:\CODING\leetCodes\189__rotate-array\src\rotate-array\Solution.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="27" visitedSequencePoints="13" numBranchPoints="16" visitedBranchPoints="8" sequenceCoverage="48.14" branchCoverage="50" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="2" />
+          <FullName>rotate_array.Solution</FullName>
+          <Methods>
+            <Method cyclomaticComplexity="8" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="False" isSetter="False" isStatic="True">
+              <Summary numSequencePoints="13" visitedSequencePoints="13" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken />
+              <Name>System.Void rotate_array.Solution::Rotate1(System.Int32[],System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="6" uspid="8" ordinal="0" sl="8" sc="1" el="8" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="8" uspid="9" ordinal="1" sl="9" sc="1" el="9" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="5" uspid="10" ordinal="2" sl="10" sc="1" el="10" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="3" uspid="12" ordinal="3" sl="12" sc="1" el="12" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="36" uspid="13" ordinal="4" sl="13" sc="1" el="13" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="15" uspid="14" ordinal="5" sl="14" sc="1" el="14" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="15" uspid="15" ordinal="6" sl="15" sc="1" el="15" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="15" uspid="16" ordinal="7" sl="16" sc="1" el="16" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="36" uspid="17" ordinal="8" sl="17" sc="1" el="17" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="15" uspid="18" ordinal="9" sl="18" sc="1" el="18" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="15" uspid="19" ordinal="10" sl="19" sc="1" el="19" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="15" uspid="20" ordinal="11" sl="20" sc="1" el="20" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="6" uspid="21" ordinal="12" sl="21" sc="1" el="21" ec="2" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="4" uspid="9" ordinal="1" path="1" offset="12" offsetend="16" sl="9" fileid="1" />
+                <BranchPoint vc="3" uspid="10" ordinal="3" path="1" offset="26" offsetend="30" sl="10" fileid="1" />
+                <BranchPoint vc="15" uspid="13" ordinal="5" path="1" offset="71" offsetend="43" sl="13" fileid="1" />
+                <BranchPoint vc="3" uspid="13" ordinal="4" path="0" offset="71" offsetend="73" sl="13" fileid="1" />
+                <BranchPoint vc="15" uspid="17" ordinal="7" path="1" offset="105" offsetend="78" sl="17" fileid="1" />
+                <BranchPoint vc="6" uspid="9" ordinal="0" path="0" offset="12" offsetend="107" sl="9" fileid="1" />
+                <BranchPoint vc="6" uspid="10" ordinal="2" path="0" offset="26" offsetend="107" sl="10" fileid="1" />
+                <BranchPoint vc="6" uspid="17" ordinal="6" path="0" offset="105" offsetend="107" sl="17" fileid="1" />
+              </BranchPoints>
+              <MethodPoint vc="13" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="8" ec="1" el="21" bec="0" bev="0" fileid="1" xmlns:p8="xsi" />
+            </Method>
+            <Method cyclomaticComplexity="8" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" isConstructor="False" isGetter="False" isSetter="False" isStatic="True">
+              <Summary numSequencePoints="14" visitedSequencePoints="0" numBranchPoints="8" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken />
+              <Name>System.Void rotate_array.Solution::Rotate2(System.Int32[],System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="24" ordinal="0" sl="24" sc="1" el="24" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="25" ordinal="1" sl="25" sc="1" el="25" ec="2" bec="2" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="26" ordinal="2" sl="26" sc="1" el="26" ec="2" bec="2" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="28" ordinal="3" sl="28" sc="1" el="28" ec="2" bec="2" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="29" ordinal="4" sl="29" sc="1" el="29" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="30" ordinal="5" sl="30" sc="1" el="30" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="31" ordinal="6" sl="31" sc="1" el="31" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="32" ordinal="7" sl="32" sc="1" el="32" ec="2" bec="2" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="33" ordinal="8" sl="33" sc="1" el="33" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="34" ordinal="9" sl="34" sc="1" el="34" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="35" ordinal="10" sl="35" sc="1" el="35" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="36" ordinal="11" sl="36" sc="1" el="36" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="37" ordinal="12" sl="37" sc="1" el="37" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="38" ordinal="13" sl="38" sc="1" el="38" ec="2" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="25" ordinal="1" path="1" offset="12" offsetend="16" sl="25" fileid="1" />
+                <BranchPoint vc="0" uspid="28" ordinal="7" path="1" offset="91" offsetend="32" sl="28" fileid="1" />
+                <BranchPoint vc="0" uspid="32" ordinal="5" path="1" offset="76" offsetend="54" sl="32" fileid="1" />
+                <BranchPoint vc="0" uspid="32" ordinal="4" path="0" offset="76" offsetend="78" sl="32" fileid="1" />
+                <BranchPoint vc="0" uspid="26" ordinal="3" path="1" offset="26" offsetend="83" sl="26" fileid="1" />
+                <BranchPoint vc="0" uspid="25" ordinal="0" path="0" offset="12" offsetend="93" sl="25" fileid="1" />
+                <BranchPoint vc="0" uspid="26" ordinal="2" path="0" offset="26" offsetend="93" sl="26" fileid="1" />
+                <BranchPoint vc="0" uspid="28" ordinal="6" path="0" offset="91" offsetend="93" sl="28" fileid="1" />
+              </BranchPoints>
+              <MethodPoint vc="0" uspid="0" p8:type="SequencePoint" ordinal="1" offset="1" sc="0" sl="24" ec="1" el="38" bec="0" bev="0" fileid="1" xmlns:p8="xsi" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

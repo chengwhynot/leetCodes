@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="13" visitedSequencePoints="13" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="5" minCyclomaticComplexity="5" visitedClasses="2" numClasses="2" visitedMethods="2" numMethods="2" />
   <Modules>
-    <Module hash="B89DD8E4-7D2E-4FC0-8FC9-2447460F5A9D">
+    <Module hash="2E052297-DC6E-4CD3-8229-78F7054D9510">
       <ModulePath>remove-linked-list-elements.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:48</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:37</ModuleTime>
       <ModuleName>remove-linked-list-elements</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\203__remove-linked-list-elements\src\Solution.cs" />

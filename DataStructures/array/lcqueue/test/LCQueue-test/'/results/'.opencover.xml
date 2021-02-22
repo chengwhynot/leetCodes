@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="45" visitedSequencePoints="39" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="86.66" branchCoverage="100" maxCyclomaticComplexity="10" minCyclomaticComplexity="10" visitedClasses="2" numClasses="2" visitedMethods="7" numMethods="8" />
   <Modules>
-    <Module hash="1302CAEC-E12A-40AD-8335-E2B5D7308A4A">
+    <Module hash="2D5D76A6-4EDC-49F6-B654-E593E6B019E9">
       <ModulePath>LCQueue.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:48</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:43</ModuleTime>
       <ModuleName>LCQueue</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\DataStructures\array\lcqueue\src\LCQueue\Solution.cs" />

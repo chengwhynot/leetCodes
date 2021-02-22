@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="28" visitedSequencePoints="28" numBranchPoints="16" visitedBranchPoints="16" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="16" minCyclomaticComplexity="16" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
   <Modules>
-    <Module hash="5EECF7C9-9912-4354-B9D5-70F9DB38B117">
+    <Module hash="BD7BBA2F-DB5D-4D97-AF98-3CAEED308707">
       <ModulePath>surface-area-of-3d-shapes.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:46</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:41</ModuleTime>
       <ModuleName>surface-area-of-3d-shapes</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\892__surface-area-of-3d-shapes\src\Solution.cs" />

@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="43" visitedSequencePoints="40" numBranchPoints="22" visitedBranchPoints="20" sequenceCoverage="93.02" branchCoverage="90.9" maxCyclomaticComplexity="22" minCyclomaticComplexity="22" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
   <Modules>
-    <Module hash="F9D8DC12-0405-4101-9792-73FAF1231A34">
+    <Module hash="300914E1-3642-4CAC-BCB4-909B9561E4E5">
       <ModulePath>find-words-that-can-be-formed-by-characters.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:45</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:38</ModuleTime>
       <ModuleName>find-words-that-can-be-formed-by-characters</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\1160__find-words-that-can-be-formed-by-characters\src\find-words-that-can-be-formed-by-characters\Solution.cs" />

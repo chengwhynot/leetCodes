@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="22" visitedSequencePoints="19" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="86.36" branchCoverage="100" maxCyclomaticComplexity="9" minCyclomaticComplexity="9" visitedClasses="1" numClasses="2" visitedMethods="1" numMethods="2" />
   <Modules>
-    <Module hash="11CEF5B1-9068-42FA-9A78-58C33963CF9E">
+    <Module hash="315BA514-45A9-4D1F-8E17-CB856B36CE3D">
       <ModulePath>compress-string-lcci.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:48</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:40</ModuleTime>
       <ModuleName>compress-string-lcci</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\compress-string-lcci\src\Program.cs" />

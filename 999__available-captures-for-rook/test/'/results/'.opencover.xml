@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="53" visitedSequencePoints="52" numBranchPoints="30" visitedBranchPoints="29" sequenceCoverage="98.11" branchCoverage="96.66" maxCyclomaticComplexity="30" minCyclomaticComplexity="30" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
   <Modules>
-    <Module hash="37E94C70-A285-46DE-98DC-46140DD7D249">
+    <Module hash="28C09963-35A0-40A1-88F6-DECFF1910E29">
       <ModulePath>available-captures-for-rook.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:50</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:42</ModuleTime>
       <ModuleName>available-captures-for-rook</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\999__available-captures-for-rook\src\Solution.cs" />

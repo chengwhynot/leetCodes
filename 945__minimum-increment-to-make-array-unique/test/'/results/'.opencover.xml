@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="24" visitedSequencePoints="24" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
   <Modules>
-    <Module hash="3AB0CC9A-9411-44E9-91F9-1D2514D15812">
+    <Module hash="1A77F500-1BF5-41C4-8A73-8F26CCCB204E">
       <ModulePath>minimum-increment-to-make-array-unique.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:50</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:43</ModuleTime>
       <ModuleName>minimum-increment-to-make-array-unique</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\945__minimum-increment-to-make-array-unique\src\Solution.cs" />

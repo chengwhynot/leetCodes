@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="25" visitedSequencePoints="25" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
   <Modules>
-    <Module hash="A2F63086-B551-462C-8AB3-06D62B26F72B">
+    <Module hash="9A39435D-023D-4958-AAE3-5FC2654048ED">
       <ModulePath>sort-an-array.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:46</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:41</ModuleTime>
       <ModuleName>sort-an-array</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\912__sort-an-array\src\Solution.cs" />

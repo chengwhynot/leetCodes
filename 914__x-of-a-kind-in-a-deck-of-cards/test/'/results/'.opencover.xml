@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="22" visitedSequencePoints="22" numBranchPoints="10" visitedBranchPoints="10" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="10" minCyclomaticComplexity="10" visitedClasses="1" numClasses="1" visitedMethods="2" numMethods="2" />
   <Modules>
-    <Module hash="E213DF61-FD83-4AD2-A747-FB192B8FC96F">
+    <Module hash="7C9BC2EA-48FF-4E95-8DF9-828248AD9E95">
       <ModulePath>x-of-a-kind-in-a-deck-of-cards.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:46</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:43</ModuleTime>
       <ModuleName>x-of-a-kind-in-a-deck-of-cards</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\914__x-of-a-kind-in-a-deck-of-cards\src\Solution.cs" />

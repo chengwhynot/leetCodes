@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="8" visitedSequencePoints="8" numBranchPoints="2" visitedBranchPoints="2" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
   <Modules>
-    <Module hash="EA34A03B-EEA5-4712-A34C-D6CEE954416B">
+    <Module hash="7D50DE94-15BF-4DAC-A99E-0806FC502650">
       <ModulePath>yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.dll</ModulePath>
-      <ModuleTime>2021-02-20T04:11:46</ModuleTime>
+      <ModuleTime>2021-02-20T04:28:40</ModuleTime>
       <ModuleName>yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\CODING\leetCodes\interview18__yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof\src\Solution.cs" />

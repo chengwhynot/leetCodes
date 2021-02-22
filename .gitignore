@@ -343,3 +343,5 @@ healthchecksdb
 #coverlet coverage data
 coverage.opencover.xml
 coverage.json
+.info
+*.info
