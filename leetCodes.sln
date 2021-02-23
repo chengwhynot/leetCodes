@@ -121,9 +121,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "single-number-tests", "136_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "350__intersection-of-two-arrays-ii", "350__intersection-of-two-arrays-ii", "{8E835E7F-0BF4-49E8-988F-135AC0726D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intersection-of-two-arrays-ii-tests", "350__intersection-of-two-arrays-ii\test\intersection-of-two-arrays-ii-tests\intersection-of-two-arrays-ii-tests.csproj", "{9D202C0F-D83B-486C-9591-105C05286F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "intersection-of-two-arrays-ii-tests", "350__intersection-of-two-arrays-ii\test\intersection-of-two-arrays-ii-tests\intersection-of-two-arrays-ii-tests.csproj", "{9D202C0F-D83B-486C-9591-105C05286F99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intersection-of-two-arrays-ii", "350__intersection-of-two-arrays-ii\src\intersection-of-two-arrays-ii\intersection-of-two-arrays-ii.csproj", "{F715091A-FEA4-4BFB-9419-704E46146B9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "intersection-of-two-arrays-ii", "350__intersection-of-two-arrays-ii\src\intersection-of-two-arrays-ii\intersection-of-two-arrays-ii.csproj", "{F715091A-FEA4-4BFB-9419-704E46146B9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "66__plus-one", "66__plus-one", "{22111064-BBB3-48FC-AF5B-C807DCCC3141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plus-one-tests", "66__plus-one\test\plus-one-tests\plus-one-tests.csproj", "{A5548584-8EEF-4220-9D37-7EF6968C8195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plus-one", "66__plus-one\src\plus-one\plus-one.csproj", "{E0F40F30-766C-4D9E-A247-7105A3BA7F29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -287,6 +293,14 @@ Global
 		{F715091A-FEA4-4BFB-9419-704E46146B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F715091A-FEA4-4BFB-9419-704E46146B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F715091A-FEA4-4BFB-9419-704E46146B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5548584-8EEF-4220-9D37-7EF6968C8195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5548584-8EEF-4220-9D37-7EF6968C8195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5548584-8EEF-4220-9D37-7EF6968C8195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5548584-8EEF-4220-9D37-7EF6968C8195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F40F30-766C-4D9E-A247-7105A3BA7F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F40F30-766C-4D9E-A247-7105A3BA7F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F40F30-766C-4D9E-A247-7105A3BA7F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F40F30-766C-4D9E-A247-7105A3BA7F29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -334,6 +348,8 @@ Global
 		{0E8B0877-0A99-4D9F-B247-AAE3E9280A0B} = {8D2BD73B-8CDD-4F6C-8E1A-BA6D31893163}
 		{9D202C0F-D83B-486C-9591-105C05286F99} = {8E835E7F-0BF4-49E8-988F-135AC0726D12}
 		{F715091A-FEA4-4BFB-9419-704E46146B9F} = {8E835E7F-0BF4-49E8-988F-135AC0726D12}
+		{A5548584-8EEF-4220-9D37-7EF6968C8195} = {22111064-BBB3-48FC-AF5B-C807DCCC3141}
+		{E0F40F30-766C-4D9E-A247-7105A3BA7F29} = {22111064-BBB3-48FC-AF5B-C807DCCC3141}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A6CB934-5E57-4D29-8CDE-7351F32B5CC1}
