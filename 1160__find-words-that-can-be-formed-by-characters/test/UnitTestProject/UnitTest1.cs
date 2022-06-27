@@ -8,7 +8,7 @@ namespace UnitTestProject
     {
         /*
          * 输入：words = ["cat","bt","hat","tree"], chars = "atach"
-         * 输出：6
+         * lc-387__first-unique-character-in-a-string输出：6
          * 解释： 
          * 可以形成字符串 "cat" 和 "hat"，所以答案是 3 + 3 = 6。
         
