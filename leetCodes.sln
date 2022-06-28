@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "compress-string-lcci-tests", "compress-string-lcci\test\compress-string-lcci-test\compress-string-lcci-tests.csproj", "{FBFF5D86-3564-4FDA-A211-AB4E429E7EAC}"
 EndProject
@@ -157,9 +157,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rotate-image", "48__rotate-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lc-387__first-unique-character-in-a-string", "lc-387__first-unique-character-in-a-string", "{872B6EE3-F0C8-4222-9898-178169EBE633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first-unique-character-in-a-string", "387__first-unique-character-in-a-string\src\first-unique-character-in-a-string\first-unique-character-in-a-string.csproj", "{4A23D6BE-E939-4974-81B7-EC84374E5CF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "first-unique-character-in-a-string", "387__first-unique-character-in-a-string\src\first-unique-character-in-a-string\first-unique-character-in-a-string.csproj", "{4A23D6BE-E939-4974-81B7-EC84374E5CF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first-unique-character-in-a-string-tests", "387__first-unique-character-in-a-string\test\first-unique-character-in-a-string-tests\first-unique-character-in-a-string-tests.csproj", "{56CBF6D9-D746-4693-B9E8-C1B2904CD0FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "first-unique-character-in-a-string-tests", "387__first-unique-character-in-a-string\test\first-unique-character-in-a-string-tests\first-unique-character-in-a-string-tests.csproj", "{56CBF6D9-D746-4693-B9E8-C1B2904CD0FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7__reverse-integer", "7__reverse-integer", "{AFEC2524-B45B-40B5-AE27-EAD1AE1FAAF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse-integer", "7__reverse-integer\reverse-integer\reverse-integer.csproj", "{B298E274-22DD-474A-AE1D-DDED6C3481A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse-integer-tests", "7__reverse-integer\reverse-integer-tests\reverse-integer-tests.csproj", "{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -371,6 +377,14 @@ Global
 		{56CBF6D9-D746-4693-B9E8-C1B2904CD0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56CBF6D9-D746-4693-B9E8-C1B2904CD0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56CBF6D9-D746-4693-B9E8-C1B2904CD0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B298E274-22DD-474A-AE1D-DDED6C3481A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B298E274-22DD-474A-AE1D-DDED6C3481A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B298E274-22DD-474A-AE1D-DDED6C3481A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B298E274-22DD-474A-AE1D-DDED6C3481A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -430,6 +444,8 @@ Global
 		{FAA7686D-66E0-422A-8B2A-96A2B49299AB} = {E9264348-EBAB-41C5-8133-C7FE9348B061}
 		{4A23D6BE-E939-4974-81B7-EC84374E5CF0} = {872B6EE3-F0C8-4222-9898-178169EBE633}
 		{56CBF6D9-D746-4693-B9E8-C1B2904CD0FF} = {872B6EE3-F0C8-4222-9898-178169EBE633}
+		{B298E274-22DD-474A-AE1D-DDED6C3481A9} = {AFEC2524-B45B-40B5-AE27-EAD1AE1FAAF2}
+		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696} = {AFEC2524-B45B-40B5-AE27-EAD1AE1FAAF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A6CB934-5E57-4D29-8CDE-7351F32B5CC1}
