@@ -16,7 +16,7 @@ namespace rotate_array_test
         public void TestMethod1(int[] nums, int k, int[] expected)
         {
             var sut = new Solution();
-            sut.Rotate1(nums, k);
+            sut.Rotate3(nums, k);
             CollectionAssert.AreEqual(expected, nums);
         }
     }

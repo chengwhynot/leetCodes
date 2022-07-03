@@ -163,9 +163,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "first-unique-character-in-a
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7__reverse-integer", "7__reverse-integer", "{AFEC2524-B45B-40B5-AE27-EAD1AE1FAAF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse-integer", "7__reverse-integer\reverse-integer\reverse-integer.csproj", "{B298E274-22DD-474A-AE1D-DDED6C3481A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse-integer", "7__reverse-integer\reverse-integer\reverse-integer.csproj", "{B298E274-22DD-474A-AE1D-DDED6C3481A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse-integer-tests", "7__reverse-integer\reverse-integer-tests\reverse-integer-tests.csproj", "{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse-integer-tests", "7__reverse-integer\reverse-integer-tests\reverse-integer-tests.csproj", "{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "395__longest-substring-with-at-least-k-repeating-characters", "395__longest-substring-with-at-least-k-repeating-characters", "{E007C810-1B29-453A-8024-7E178C4EA225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-substring-with-at-least-k-repeating-characters", "395__longest-substring-with-at-least-k-repeating-characters\longest-substring-with-at-least-k-repeating-characters\longest-substring-with-at-least-k-repeating-characters.csproj", "{F83372AC-165C-44A9-9545-B1D257815461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-substring-with-at-least-k-repeating-characters-tests", "395__longest-substring-with-at-least-k-repeating-characters\longest-substring-with-at-least-k-repeating-characters-tests\longest-substring-with-at-least-k-repeating-characters-tests.csproj", "{92800F7C-E66B-43AF-9881-D511BDB929C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -385,6 +391,14 @@ Global
 		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83372AC-165C-44A9-9545-B1D257815461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83372AC-165C-44A9-9545-B1D257815461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83372AC-165C-44A9-9545-B1D257815461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83372AC-165C-44A9-9545-B1D257815461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92800F7C-E66B-43AF-9881-D511BDB929C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92800F7C-E66B-43AF-9881-D511BDB929C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92800F7C-E66B-43AF-9881-D511BDB929C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92800F7C-E66B-43AF-9881-D511BDB929C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -446,6 +460,8 @@ Global
 		{56CBF6D9-D746-4693-B9E8-C1B2904CD0FF} = {872B6EE3-F0C8-4222-9898-178169EBE633}
 		{B298E274-22DD-474A-AE1D-DDED6C3481A9} = {AFEC2524-B45B-40B5-AE27-EAD1AE1FAAF2}
 		{95AD3C92-0D1C-4EAD-9320-9BFAED98F696} = {AFEC2524-B45B-40B5-AE27-EAD1AE1FAAF2}
+		{F83372AC-165C-44A9-9545-B1D257815461} = {E007C810-1B29-453A-8024-7E178C4EA225}
+		{92800F7C-E66B-43AF-9881-D511BDB929C6} = {E007C810-1B29-453A-8024-7E178C4EA225}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A6CB934-5E57-4D29-8CDE-7351F32B5CC1}
